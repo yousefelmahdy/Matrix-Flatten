@@ -6,12 +6,6 @@ A 3D matrix is to be stored in a 1D vector (flattened)
 ```
 git clone https://github.com/yousefelmahdy/Matrix-Flatten.git
 ```
-```
-cd Matrix-Flatten
-```
-```
-g++ main.cpp 
-```
 ## 💻Built Using
 - C++
 ## 📷Screenshots
